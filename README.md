@@ -1,8 +1,5 @@
 # projectX-cli
 
-[![Pylint](https://github.com/Basesolve/projectX-cli/actions/workflows/pylint.yml/badge.svg)](https://github.com/Basesolve/projectX-cli/actions/workflows/pylint.yml)
-[![Labeler](https://github.com/Basesolve/projectX-cli/actions/workflows/label.yml/badge.svg)](https://github.com/Basesolve/projectX-cli/actions/workflows/label.yml)
-
 ## build
 
 ```bash
