@@ -1,0 +1,1 @@
+singularity build -f projectx.sif projectx.def

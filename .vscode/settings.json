@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": true,
+    "editor.wrappingIndent": "indent",
+    "editor.trimAutoWhitespace": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": ".env/bin/black",
+    "editor.formatOnSave": true,
+}
